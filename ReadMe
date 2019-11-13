@@ -1,0 +1,29 @@
+The bot will require a few fields:
+Username
+Passowrd
+Search link - this is the link to the page of all your connections.
+File Name - a file that you want to send. (resume)
+Message - the message that you want to sent. the file should be located at "C:\Users\username"
+Include First Name radio box - if selected, the text "UserNameHere" will be replaced with the current users name.
+
+The bot has three programs:
+
+1. Sending connections to people on linkedin that have the word "HR" in their title, before adding the bot will check with the database
+if the user already was in your connections before, if so it wont add him.
+2. Auto messanger that will send the message & file to the people who have "HR" in their title.
+3. Remove old connections (1 week and above).
+
+you can pause, stop the bot at any time.
+
+The bot can handle:
+
+Blocking used by Linkedin after a certian ammount of messages sent.
+Message sending error.
+Recieving messages while the bot is running will close the window that pop's out.
+Filter user names to remove whitespace & special characters.
+
+SETTING UP:
+
+You could insert the username & password inside the config.app file.
+
+To start program simply input all fields, and don't touch the mouse & keyboard while the bot is running.
