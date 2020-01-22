@@ -13,7 +13,7 @@ if the user already was in your connections before, if so it wont add him.
 2. Auto messanger that will send the message & file to the people who have "HR" in their title.
 3. Remove old connections (1 week and above).
 
-you can pause, stop the bot at any time.
+**pause , resume is not working properly yet so for now it would only start\stop
 
 The bot can handle:
 
